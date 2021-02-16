@@ -1,0 +1,101 @@
+.preface {
+	color: #5995DA;
+	font-style: italic;
+}
+
+.firstHeader {
+	color: #EEEEEE;
+	background-color: #414141;
+	padding: 20px;
+	border: 2px solid #000000;
+}
+
+.listInfo1 {
+	background-color: #0602db;
+	color: #FFFFFF;
+	padding: 20px;
+}
+
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+}
+
+a:visited:hover {
+  color: orange;
+}
+
+a:visited:active {
+  color: red;
+}
+
+h2 {
+	color: #CD5C5C;
+	background-color: #FFA07A;
+	border: 2px solid #82E0AA;
+}
+
+.button {
+	display: block;
+	
+	color: #FFF;
+	background-color: #5D6063;
+	font-weight: bold;
+padding: 20px;
+	text-align: center;
+	border: 3px solid #5995DA;
+	border-radius: 5px;
+	width: 200px;
+	margin: 20px auto;
+}
+
+.button:hover,
+.button:visited:hover {
+  color: #FFF;
+  background-color: #76AEED;
+}
+
+.button:active,
+.button:visited:active {
+  color: #FFF;
+  background-color: #5995DA;
+}
+
+.navBar li {
+	float: left;
+	padding: 5px;
+	display: inline;	
+}
+
+.navBar li a:hover {
+	background-color: #111;
+}
+
+.navBar {
+	list-style-type: none;
+	overflow: hidden;
+	margin: 0;
+	padding: 15px;
+	background-color: #dd4444;
+}
+
+.menu {
+	display: block;
+	padding: 8px;
+border: 3px solid #5995DA;
+	background-color: #dddddd;
+}
+
